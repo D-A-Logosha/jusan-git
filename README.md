@@ -1,5 +1,5 @@
 # stepik-id-printer (h1)
-
+![image](./image.png)
 Данный репозиторий создан для выполнения [задания](https://stepik.org/lesson/829285/step/1) на *образовательной платформе* stepik.org и содержит скрипт для вывода моего ID на stepik.org
 
 ## Возможности(h2)
